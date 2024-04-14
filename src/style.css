@@ -4,10 +4,10 @@ body {
   }
   .weather {
     background: white;
-    max-width: 600px;
-    margin: 50px auto;
+    max-width: 200px;
+    margin: 40px auto;
     padding: 30px;
-    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+    box-shadow: 0 30px 40px rgba(65, 50, 100, 0.08);
     border-radius: 20px;
   }
   header {
