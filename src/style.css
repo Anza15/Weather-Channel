@@ -33,22 +33,22 @@ body {
     margin-left: 10px;
   }
   main {
-    padding: 25px 0;
+    padding: 22px 0;
   }
   .city {
     margin: 0%;
-    font-size: 36px;
-    line-height: 46px;
+    font-size: 32px;
+    line-height: 42px;
   }
   .main-div {
     justify-content: space-between;
     display: flex;
   }
   .details {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     color: rgba(0, 0, 0, 0.6);
-    font-weight: 300px;
+    font-weight: 250px;
   }
   .details strong {
     color: #246ce8;
@@ -57,18 +57,18 @@ body {
     display: flex;
   }
   .value {
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
   }
   .icon {
     position: relative;
   
-    font-size: 40px;
-    margin-right: 10px;
+    font-size: 30px;
+    margin-right: 8px;
   }
   
   .unit {
-    font-size: 28px;
+    font-size: 26px;
     position: relative;
   }
   footer {
@@ -76,7 +76,7 @@ body {
     padding-top: 15px;
     font-size: 11px;
     text-align: center;
-    color: rgba(39, 33, 66, 0.4);
+    color: rgba(33, 30, 60, 0.4);
   }
   a {
     color: #f65282;
