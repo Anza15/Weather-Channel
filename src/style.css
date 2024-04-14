@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f7fe;
+    background-color: #eed5df;
     font-family: "Roboto", sans-serif;
   }
   .weather {
@@ -7,7 +7,7 @@ body {
     max-width: 100px;
     margin: 40px auto;
     padding: 30px;
-    box-shadow: 0 30px 40px rgba(50, 50, 80, 0.05);
+    box-shadow: 0 30px 40px rgba(231, 209, 227, 0.05);
     border-radius: 20px;
   }
   header {
