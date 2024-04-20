@@ -4,11 +4,11 @@ body {
   }
   .weather {
     background: white;
-    max-width: 100px;
+    max-width: 600px;
     margin: 40px auto;
     padding: 30px;
     box-shadow: 0 30px 40px rgba(231, 209, 227, 0.05);
-    border-radius: 20px;
+    border-radius: 16px;
   }
   header {
     border-bottom: 1px solid #f9f7fe;
@@ -17,7 +17,7 @@ body {
   .search-input {
     background-color: #f9f7fe;
     border: none;
-    padding: 16px;
+    padding: 16px 20px;
     border-radius: 6px;
     width: 75%;
     font-size: 16px;
@@ -25,12 +25,12 @@ body {
   .search-submit {
     background-color: #f65282;
     border: none;
-    padding: 20px;
+    padding: 20px 30px;
     border-radius: 6px;
     font-size: 16px;
     color: white;
     margin-left: 5px;
-    line-height: 1;
+    
   }
   main {
     padding: 30px 0;
@@ -50,6 +50,7 @@ body {
     line-height: 22px;
     color: rgba(0, 0, 0, 0.6);
     font-weight: 250px;
+    line-height: 20px;
   }
   .details strong {
     color: #246ce8;
@@ -59,14 +60,16 @@ body {
     justify-content: space-between;
   }
   .value {
+    line-height: 40px;
     font-size: 40px;
     font-weight: bold;
   }
   .icon {
     position: relative;
+    width:66px;
+    height:66px;
   
-    font-size: 30px;
-    margin-right: 8px;
+    
   }
   
   .unit {
@@ -75,8 +78,8 @@ body {
   }
   footer {
     border-top: 1px solid #f9f7fe;
-    padding-top: 15px;
-    font-size: 11px;
+    padding: 30px 0 0 0;
+    font-size: 14px;
     text-align: center;
     color: rgba(33, 30, 60, 0.4);
   }
